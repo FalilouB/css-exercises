@@ -1,1 +1,15 @@
 /* Add CSS Styling */
+.avatar.proportioned {
+    width: 300px;
+    height: auto;
+} 
+
+.avatar.distorted {
+    width: 200px;
+    height: 400px;
+}
+
+/*
+.x.y = means and so it must have both
+.x, .y = means or so one or the other
+*/
